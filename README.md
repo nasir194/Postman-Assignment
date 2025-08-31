@@ -3,4 +3,5 @@
 ### Test Case Report: https://docs.google.com/spreadsheets/d/18zPoAwDkpHqszZR3LdZsXC28sKJ3oVEFmDAE1c_X1DM/edit?usp=sharing
 ### Bug Report: https://docs.google.com/spreadsheets/d/1Gb-Rnw5UllQFXU6-iSxeObjeD13WZyx-/edit?usp=sharing&ouid=117721760905608068339&rtpof=true&sd=true
 ### Attachment:
-   https://drive.google.com/file/d/1H6GuAqKOyZwl0LGAavJjKeqQJicmAbzI/view?usp=sharing
+   <img width="1366" height="1302" alt="screencapture-file-D-SDET-Assignments-Postman-Assignment-Reports-report-html-2025-08-31-17_25_45" src="https://github.com/user-attachments/assets/ee8462bf-0b17-4387-9536-60177db718f8" />
+
