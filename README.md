@@ -17,9 +17,9 @@
    Add negative cases for each request.
 
 ### Technology used
---- node
---- Postman
---- newman
+a. node
+b. Postman
+c. Newman
 
 ### API Documentation: https://documenter.getpostman.com/view/47684725/2sB3Hhs2Ua
 ### Test Case Report: https://docs.google.com/spreadsheets/d/18zPoAwDkpHqszZR3LdZsXC28sKJ3oVEFmDAE1c_X1DM/edit?usp=sharing
