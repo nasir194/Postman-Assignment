@@ -15,7 +15,9 @@
    --> The Merchant checks his balance.
 2. Create a Postman collection based on your test cases (from the above 10 scenarios).
    Add negative cases for each request.
+3. Write down at least 5 bugs or improvement suggestions in a Google Sheet for the Dmoney API
 
+   
 ### Technology used
 a. node
 b. Postman
